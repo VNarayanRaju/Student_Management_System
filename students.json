@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Lahari",
+        "dept": "CSE"
+    },
+    {
+        "id": 2,
+        "name": "Raju",
+        "dept": "ECE"
+    },
+    {
+        "id": 3,
+        "name": "Rakesh",
+        "dept": "CSE"
+    },
+    {
+        "id": 4,
+        "name": "Ram",
+        "dept": "IT"
+    },
+    {
+        "id": 5,
+        "name": "Priya",
+        "dept": "CSE"
+    },
+    {
+        "id": 6,
+        "name": "Rahul",
+        "dept": "ECE"
+    },
+    {
+        "id": 7,
+        "name": "Arjun",
+        "dept": "IT"
+    }
+]
